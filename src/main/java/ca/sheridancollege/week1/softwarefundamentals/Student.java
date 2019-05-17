@@ -8,6 +8,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 /**
  *
  * @author ramses
+ * This is a simple Student class
  */
 public class Student {
     
